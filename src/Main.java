@@ -1,10 +1,10 @@
-import calculator.Calculator;
+import calculator.CalculatorLv2;
 
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Calculator calculator = new Calculator();
+        CalculatorLv2 calculator = new CalculatorLv2();
 
         Scanner sc = new Scanner(System.in);
 
